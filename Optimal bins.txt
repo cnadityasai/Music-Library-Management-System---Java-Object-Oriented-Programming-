@@ -1,0 +1,1 @@
+The optimal number of Disks with size 4000 each: 1
